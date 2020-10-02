@@ -1,3 +1,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jakobod&count_private=true&bg_color=30,F68520,FFEAD8&title_color=413932&text_color=413932" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jakobod&count_private=true&bg_color=65,D33A3A,FFC300&title_color=FFFBDF&text_color=FFFBDF" />
 </a>
